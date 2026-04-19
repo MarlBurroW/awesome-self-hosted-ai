@@ -115,6 +115,7 @@
 |----------|-------------|
 | [Dify Hosting Guide](https://dify-hosting.com) | Complete deployment guides for Dify on Hetzner, DigitalOcean, and other VPS providers — from Docker setup to reverse proxy configuration |
 | [Best VPS for AI Workloads](https://bestvpsfor.com) | Benchmark comparisons of VPS providers for LLM inference — token/second benchmarks, cost-per-query analysis |
+| [Self-Host VPS Guide](https://selfhostvps.com) | Step-by-step tutorials for self-hosting Dify, Coolify, n8n, Nextcloud, and more on your own VPS — from initial setup to production deployment |
 | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) | Active community for local LLM discussion — model recommendations, hardware advice, and benchmarks |
 | [Ollama Discord](https://discord.com/invite/ollama) | Official Ollama community — help with setup, model selection, and API integration |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Comprehensive list of LLM papers, tools, and frameworks |
